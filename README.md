@@ -4,6 +4,7 @@ A repository of interactive Machine Learning models built with Streamlit.
 * **SIMPLE-LINEAR-REGRESSION**: Standard OLS approach.
 * **MULTIPLE-LINEAR-REGRESSION**: Regression with multiple input features.
 * **GRADIENT-DESCENT**: Manual implementation of weight/bias updates.
+* **BATCH GRADIENT-DESCENT**: Deterministic learning with smooth convergence
 
 ## ✨ Features
 * **Interactive Tuning**: Adjust Learning Rate and Epochs via UI.
