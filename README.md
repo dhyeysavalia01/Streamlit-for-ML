@@ -5,6 +5,8 @@ A repository of interactive Machine Learning models built with Streamlit.
 * **MULTIPLE-LINEAR-REGRESSION**: Regression with multiple input features.
 * **GRADIENT-DESCENT**: Manual implementation of weight/bias updates.
 * **BATCH GRADIENT-DESCENT**: Deterministic learning with smooth convergence
+* **RIDGE-REGRESSION**: Linear regression with L2 regularization to improve generalization and reduce overfitting.
+* **LASSO-REGRESSION**: Linear regression with L1 regularization that performs automatic feature selection by driving less important coefficients to zero.
 
 ## ✨ Features
 * **Interactive Tuning**: Adjust Learning Rate and Epochs via UI.
